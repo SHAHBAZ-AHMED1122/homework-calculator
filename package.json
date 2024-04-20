@@ -1,6 +1,7 @@
 {
   "name": "hwc00-homework-calculator",
   "version": "1.0.1",
+  
   "description": "",
   "main": "index.js",
   "type": "module",

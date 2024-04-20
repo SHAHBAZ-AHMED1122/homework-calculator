@@ -2,11 +2,11 @@
 import inquirer from "inquirer";
 const answer = await inquirer.prompt([
     {
-        message: "enter your first your number",
+        message: "enter first  number",
         type: "number",
         name: "firstnumber",
     },
-    { message: "enter your second number", type: "number", name: "secondnumber" },
+    { message: "enter  second number", type: "number", name: "secondnumber" },
     {
         message: "please choose your operator to perform operation",
         type: "list",
